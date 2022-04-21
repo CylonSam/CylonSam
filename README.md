@@ -2,8 +2,6 @@
 <h3 align="center">Your friendly neighborhood software developer!</h3>
 <h4 align="center">Based in Belém-PA 🇧🇷</h4>
 
-- 📕 Gathering knowledge since 1997.
-
 - 🌱 I’m currently learning **Vue.js, Node.js and Golang!**
 
 - 💬 Want to ask me something? hit me up at my [email](mailto:samanthaathayde@hotmail.com)!
