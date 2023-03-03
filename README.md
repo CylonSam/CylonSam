@@ -2,7 +2,7 @@
 <h3 align="center">Your friendly neighborhood software developer!</h3>
 <h4 align="center">Based in Belém-PA 🇧🇷</h4>
 
-- 🌱 I’m currently learning **Vue.js, Node.js and Golang!**
+- 🌱 I’m currently learning **Java and Golang!**
 
 - 💬 Want to ask me something? hit me up at my [email](mailto:samanthaathayde@hotmail.com)!
 
@@ -21,6 +21,7 @@
   <summary>Go</summary>
   
   1. [Simple shop simulation](https://github.com/CylonSam/go-shop)
+  2. [Finance API](https://github.com/CylonSam/cash-cash)
 
 </details>
 <details>
