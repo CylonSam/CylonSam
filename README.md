@@ -13,38 +13,31 @@ BE in Computer Engineering, UFPA;<br>
 #### Projects
 
 <details>
-  <summary>Go</summary>
+  <summary>Backend</summary>
   
-  1. [Simple shop simulation](https://github.com/CylonSam/go-shop)
-  2. [Finance API](https://github.com/CylonSam/cash-cash)
-
-</details>
-<details>
-  <summary>Python</summary>
-  
-  1. [Hanging Game with Web Scraping](https://github.com/CylonSam/Scrap-Forca)
-
-</details>
-<details>
-  <summary>Nodejs</summary>
-  
-  1. [Index Card Generator](https://github.com/CylonSam/ficat-vue)
-  2. [Scheduling System For Librarians](https://github.com/eng-gabrielscardoso/sos-normaliza.git)
+  1. [Simple shop simulation](https://github.com/CylonSam/go-shop) &rarr; Go, PostgreSQL.
+  2. [Hanging Game with Web Scraping](https://github.com/CylonSam/Scrap-Forca) &rarr; Python, BeautifulSoup.
+  3. [Battleship Game](https://github.com/CylonSam/Battleship.git) &rarr; Java.
+  4. [Calculator](https://github.com/CylonSam/Calculadora) &rarr; Java, Swing.
 
 </details>
 
+<!-- <details>
+  <summary>Frontend</summary>
+
+</details> -->
+
 <details>
-  <summary>Java</summary>
+  <summary>DevOps</summary>
   
-  1. [Battleship Game](https://github.com/CylonSam/Battleship.git)
-  2. [Calculator](https://github.com/CylonSam/Calculadora)
+  1. [Terraform Pub/Sub](https://github.com/CylonSam/terraform-pubsub) &rarr; Terraform, Google Cloud Pub/Sub, Github Actions.
 
 </details>
 
 <details>
-  <summary>Terraform</summary>
+  <summary>Fullstack</summary>
   
-  1. [Terraform Pub/Sub](https://github.com/CylonSam/terraform-pubsub) &rarr; Terraform, GCP Pub/Sub, Github Actions.
+  1. [Index Card Generator](https://github.com/CylonSam/ficat-vue) &rarr; MySQL, Node, Vue, Nuxt.
 
 </details>
 
