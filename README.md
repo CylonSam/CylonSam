@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Sam
 #### Your friendly neighborhood software engineer!
 
-Backend Developer at [americanas s.a.](https://www.linkedin.com/company/americanas-sa/);<br>
+Software Engineer at [iFood](https://www.linkedin.com/company/ifood-/);<br>
 BE in Computer Engineering, UFPA;<br>
 *Python enthusiast and amateur guitarist* 🎸
 
