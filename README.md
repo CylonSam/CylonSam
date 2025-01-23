@@ -7,7 +7,6 @@ BE in Computer Engineering, UFPA;<br>
 
 #### Reach me at
 - [Linkedin](https://www.linkedin.com/in/samanthalasilva/)
-- [Email](mailto:samanthaathayde@hotmail.com)
 - [Discord](discordapp.com/users/350073469658071072)
 
 #### Projects
